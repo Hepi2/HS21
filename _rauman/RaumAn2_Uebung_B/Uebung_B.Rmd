@@ -15,7 +15,7 @@ description: |
 ```{r, echo = TRUE}
 library(gstat)
 library(sf)
-library(tidyverse)
+library(tidyverse) # Einzelne Packages laden 
 library(lubridate)
 library(stars)
 
